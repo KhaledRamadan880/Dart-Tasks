@@ -15,7 +15,7 @@ void main() {
   double celsius = 5 / 9 * (fahrenheit - 32);
   print("The degree in celsius is : ${celsius.toStringAsFixed(1)}");
 
-  // //Program_3 (Calculate average of three contants)
+  // //Program_3  (Calculate average of three contants)
   print("\n--------- Program 3 ---------");
   const double rating1 = 9.3;
   const double rating2 = 5.8;
